@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.TodoList" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#236A5C</item>
+        <item name="android:statusBarColor">#F6F4EE</item>
+        <item name="android:navigationBarColor">#F6F4EE</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
+
